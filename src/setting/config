@@ -1,0 +1,10 @@
+base_url = https://book.douban.com
+# password = 12121222
+db_host = 127.0.0.1
+db_port = 3306
+db_user = root
+db_passwd = leshuibao
+db_schema = yyl_schema
+adfds
+cache_path = ../output
+world_famous_books_url = https://read.douban.com/kind/115
